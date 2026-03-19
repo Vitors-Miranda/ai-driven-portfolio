@@ -12,5 +12,5 @@ O Experimento com IA
 - **Framework:** Next.js (App Router)
 - **Linguagem:** TypeScript
 - **Estilização:** Tailwind CSS
-- **Banco de Dados:** PostgreSQL
-- **Infraestrutura:** Docker & Docker Compose (para o banco de dados local)
+- **Banco de Dados:** SQLite (Zero-config)
+- **ORM:** Prisma
