@@ -2,7 +2,8 @@
 
 Este é um projeto de estudo ("Build to Learn") desenvolvido em um desafio de 7 dias. O objetivo principal foi testar os limites do **Desenvolvimento Assistido por IA** utilizando um modelo de linguagem rodando 100% localmente.
 
-<img width="1459" height="575" alt="image" src="https://github.com/user-attachments/assets/28f4b51b-46b7-443c-9348-fbd2dd794e74" />
+<img width="1516" height="576" alt="image" src="https://github.com/user-attachments/assets/310114b8-e1e7-4024-afc9-6b82450f1dba" />
+
 
 
 Para evitar alucinações e códigos complexos desnecessários, o projeto foi construído sob o conceito de **"AI Jail"** (Prisão de IA), utilizando um arquivo de regras estritas (`ai-rules.md`) para guiar o modelo passo a passo, sem perder o contexto da arquitetura.
